@@ -6,7 +6,7 @@ import { Avatar, AvatarFallback, AvatarImage } from "../avatar";
 
 export default function Sales() {
     return (
-        <div  className="flex-1 h-auto">
+        <div  className="flex-1">
             <Card className="h-full">
             <CardHeader>
                     <div className="flex items-center justify-center">

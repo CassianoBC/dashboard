@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import localFont from "next/font/local";
 import "./globals.css";
 import { cn } from "@/lib/utils";
 import { Sidebar } from "@/components/ui/sidebar"; 
@@ -24,3 +23,4 @@ export default function RootLayout({
     </html>
   );
 }
+
